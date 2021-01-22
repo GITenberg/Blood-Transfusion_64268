@@ -1,0 +1,24 @@
+_repo: Blood-Transfusion_64268
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Keynes, Geoffrey
+    alias: Keynes, Geoffrey Langdon, Sir
+    birthdate: 1887
+    deathdate: 1982
+    gutenberg_agent_id: '7628'
+    url: http://www.gutenberg.org/2009/agents/7628
+    wikipedia: http://en.wikipedia.org/wiki/Geoffrey_Keynes
+description: ''
+gutenberg_issued: '2021-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Blood Transfusion
+url: http://www.gutenberg.org/ebooks/64268
